@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="tw_UP.png"/>
+  <img src="Phrozen.png"/>
   
-  https://www.phrozen.io/
-  <br/>
-  https://unprotect.it/
+  * https://www.phrozen.io/
+  * https://unprotect.it/
+  * https://keybase.io/phrozen
 </p>
