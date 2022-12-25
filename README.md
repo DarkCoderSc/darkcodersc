@@ -6,6 +6,12 @@
   * https://keybase.io/phrozen
 </p>
 
+# Important Notice
+
+I wanted to let you know that not all projects referenced on my Github account are necessarily affiliated with the PHROZEN SAS company. My Github account is both personal and professional, and it may include projects that I have developed outside of my work at PHROZEN SAS.
+
+Thank you for your understanding and I hope this clears up any misunderstanding. If you have any questions or concerns, please do not hesitate to contact me.
+
 # Disclaimer
 
 🇺🇸 All source code and projects shared on this Github account by Jean-Pierre LESUEUR and his company, PHROZEN SAS, are provided "as is" without warranty of any kind, either expressed or implied. The user of this code assumes all responsibility for any issues or legal liabilities that may arise from the use, misuse, or distribution of this code. The user of this code also agrees to release Jean-Pierre LESUEUR and PHROZEN SAS from any and all liability for any damages or losses that may result from the use, misuse, or distribution of this code.
