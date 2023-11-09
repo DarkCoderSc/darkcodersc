@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Phrozen.png"/>
-  
+<p align="center">  
   * https://www.phrozen.io/
   * https://unprotect.it/
   * https://keybase.io/phrozen
