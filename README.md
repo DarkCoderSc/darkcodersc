@@ -1,8 +1,6 @@
-<p align="center">  
-  * https://www.phrozen.io/
-  * https://unprotect.it/
-  * https://keybase.io/phrozen
-</p>
+* https://www.phrozen.io/
+* https://unprotect.it/
+* https://keybase.io/phrozen
 
 ---
 
